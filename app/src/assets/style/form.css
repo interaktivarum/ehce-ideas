@@ -1,0 +1,33 @@
+button{
+  border: 0px solid #CADBDA;
+  background: rgb(102,94,241);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 12pt;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+button:hover:not(:disabled){
+  border-color: black;
+  filter: brightness(1.1);
+}
+button:disabled{
+  cursor: default;
+  color: gray;
+  filter: opacity(0.5);
+}
+
+input{
+  font-size: 12pt;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+textarea{
+  height: 5em;
+  width: 30em;
+  font-size: 12pt;
+}

@@ -1,0 +1,55 @@
+{
+  "ideas": [
+    {
+      "id": 0,
+      "name": "How can we reduce food waste?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas finibus venenatis. Ut scelerisque gravida pretium. Morbi consequat, sapien nec ornare efficitur, erat nulla dictum lacus, commodo varius erat orci eget turpis cras amet. Watch the video below!",
+      "ownerId": 0,
+      "following": true,
+      "youtube": "UwOHpWTRsbE",
+      "comments": []
+    },
+    {
+      "id": 1,
+      "name": "How might we include elderly people in digitalization?",
+      "description": "My inspiring idea description...",
+      "ownerId": 0,
+      "following": true,
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "Soup kitchen",
+      "description": "My inspiring idea description...",
+      "ownerId": 1,
+      "following": false,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "name": "Bike for Western Sahara",
+      "description": "My inspiring idea description...",
+      "ownerId": 2,
+      "following": false,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "name": "A voice for the homeless",
+      "description": "What about the voice of the homeless? I'm sure they have many inspiring and eye opening stories to tell, but who is listening? Please see attached video for inspiration.",
+      "ownerId": 1,
+      "following": false,
+      "youtube": "Vjc1PiCg0nA",
+      "comments": [
+        {
+          "userId": 1,
+          "comment": "I want to do something similar as in the video. How can I start and can you help me? Any @ServiceDesigners out there?"
+        },
+        {
+          "userId": 2,
+          "comment": "Great @AdamJonson I'm happy to help with the service design! Let me know."
+        }
+      ]
+    }
+  ]
+}

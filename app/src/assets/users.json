@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "firstname": "Jennifer",
+      "lastname": "Smith",
+      "image": "js.jpg",
+      "motto": "Do it now, or never!",
+      "description": "Innovater @data4change, pasta lover and super excited to help other make their dreams come true.",
+      "organisation": "Data4Change",
+      "location": "Berlin, Germany",
+      "skills": ["Business Model Development","Visual Design","Graphic Design"],
+      "expertise": ["Crowdfunding Campaigns"],
+      "networks": ["Designers","Founders","Zoo Keepers"]
+    },
+    {
+      "id": 1,
+      "firstname": "Adam",
+      "lastname": "Jonson",
+      "image": "as.jpg",
+      "motto": "Move slow, fix things!",
+      "description": "Warm hearted doer.",
+      "organisation": "ShelterNow",
+      "location": "Lisboa, Portugal",
+      "skills": ["Concept development"],
+      "expertise": ["Funding"],
+      "networks": ["Funders","Help the homeless"]
+    },
+    {
+      "id": 2,
+      "firstname": "Yasmine",
+      "lastname": "Hussain",
+      "image": "yh.jpg",
+      "motto": "I don't do mottos!",
+      "description": "A creative force!",
+      "organisation": "Freelance",
+      "location": "Essoueira, Morocco",
+      "skills": ["Front-end development","Back-end development", "Service design"],
+      "expertise": ["Embedded software"],
+      "networks": ["Developers","Mobile development","IoT","Service designers"]
+    }
+  ]
+}

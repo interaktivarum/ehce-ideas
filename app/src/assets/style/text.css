@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow:100,300,400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:100,300,400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,500,600,800,900');
+
+body, button{
+  font-family: "Barlow";
+  font-weight: 500;
+  color: rgb(50,50,50);
+  font-weight: 400;
+  font-size: 1.1em;
+}
+
+a{
+  text-decoration: none;
+  font-weight: 500;
+  color: rgb(102,94,241);
+  cursor: pointer;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.router-link-a {
+  color: black;
+}
+
+.router-link-a:hover {
+  text-decoration: none;
+}
+
+.router-link-black {
+  color: black;
+}
+
+h1, h2, h3, h4{
+  font-family: "Barlow Semi Condensed";
+}
+
+h1{
+  font-weight: 700;
+  margin-top: 0;
+}
+
+h2{
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+h3{
+  font-weight: 400;
+  margin-bottom: 0.3em;
+}
+
+h4{
+  font-weight: 400;
+  font-size: 0.8em;
+  margin-bottom: 0.2em;
+  color: gray;
+  text-transform: uppercase;
+}
+
+.nomargin{
+  margin: 0;
+}

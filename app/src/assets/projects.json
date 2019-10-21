@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "name": "Gay pride in Poland",
+      "description": "My inspiring project description...",
+      "image": "pride.jpg",
+      "ownerId": 0,
+      "following": true,
+      "comments": []
+    },
+    {
+      "id": 1,
+      "name": "DemocracyMe - App for civic engagement",
+      "description": "My inspiring project description...",
+      "image": "democracy.jpg",
+      "ownerId": 2,
+      "following": false,
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "A home for everyone",
+      "description": "My inspiring project description...",
+      "image": "homeless.jpg",
+      "ownerId": 1,
+      "following": false,
+      "comments": []
+    }
+  ]
+}
